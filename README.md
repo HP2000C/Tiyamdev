@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tiyamdev/Tiyamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tiyamdev
 
-Here are some ideas to get you started:
+### 💻 Programmer | Web Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects, learning new technologies and improving every day.
+
+<img src="https://komarev.com/ghpvc/?username=Tiyamdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+💻 Passionate about programming
+🌱 Always learning something new
+🚀 Building personal and open-source projects
+🧠 Interested in software development
+🔥 Trying to become better every day
