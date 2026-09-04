@@ -2,21 +2,24 @@
 
 # 👋 Hi, I'm Tiyamdev
 
-### 💻 Programmer | Web Developer | Tech Enthusiast
+### 💻 Developer • AI Enthusiast • UI/UX Designer
 
-🚀 Building projects, learning new technologies and improving every day.
+Building things with code, creativity & curiosity. 🚀
 
-<img src="https://komarev.com/ghpvc/?username=Tiyamdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tiyamdev&style=flat-square&color=blue)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```text
-💻 Passionate about programming
-🌱 Always learning something new
-🚀 Building personal and open-source projects
-🧠 Interested in software development
-🔥 Trying to become better every day
+💻 Full-Stack Developer
+🤖 Artificial Intelligence & Machine Learning Enthusiast
+🎨 UI/UX Designer
+🐧 Linux User
+🔐 Beginner in Cyber Security
+🚀 Always learning & building
